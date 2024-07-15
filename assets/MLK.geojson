@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Martin Luther King Jr.",
+"features":[
+{"type":"Feature","properties":{"year":1929,"event":"Birth","description":"Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia."},"geometry":{"type":"Point","coordinates":[-84.409004,33.751667]}},
+{"type":"Feature","properties":{"year":1948,"event":"Graduation from Morehouse College","description":"King graduated from Morehouse College with a Bachelor of Arts in Sociology."},"geometry":{"type":"Point","coordinates":[-84.395896,33.745872]}},
+{"type":"Feature","properties":{"year":1951,"event":"Graduation from Crozer Theological Seminary","description":"King graduated from Crozer Theological Seminary in Chester, Pennsylvania, with a Bachelor of Divinity."},"geometry":{"type":"Point","coordinates":[-75.370457,39.851707]}},
+{"type":"Feature","properties":{"year":1953,"event":"Marriage","description":"King married Coretta Scott on June 18, 1953, in Marion, Alabama."},"geometry":{"type":"Point","coordinates":[-87.315587,32.63298]}},
+{"type":"Feature","properties":{"year":1955,"event":"Montgomery Bus Boycott","description":"King led the Montgomery Bus Boycott from December 5, 1955, to December 20, 1956, in Montgomery, Alabama."},"geometry":{"type":"Point","coordinates":[-86.299968,32.366805]}},
+{"type":"Feature","properties":{"year":1963,"event":"March on Washington","description":"King delivered his famous 'I Have a Dream' speech during the March on Washington for Jobs and Freedom on August 28, 1963."},"geometry":{"type":"Point","coordinates":[-77.036871,38.889484]}},
+{"type":"Feature","properties":{"year":1964,"event":"Nobel Peace Prize","description":"King was awarded the Nobel Peace Prize on October 14, 1964, in Oslo, Norway."},"geometry":{"type":"Point","coordinates":[10.752245,59.91273]}},
+{"type":"Feature","properties":{"year":1965,"event":"Selma to Montgomery Marches","description":"King led the Selma to Montgomery marches in Alabama, which were crucial in the passage of the Voting Rights Act of 1965."},"geometry":{"type":"Point","coordinates":[-86.299968,32.366805]}},
+{"type":"Feature","properties":{"year":1968,"event":"Assassination","description":"King was assassinated on April 4, 1968, in Memphis, Tennessee."},"geometry":{"type":"Point","coordinates":[-90.04898,35.14953]}},
+{"type":"Feature","properties":{"year":1925,"event":"Birth","description":"Malcolm X was born on May 19, 1925, in Omaha, Nebraska."},"geometry":{"type":"Point","coordinates":[-95.997988,41.256537]}},
+{"type":"Feature","properties":{"year":1946,"event":"Imprisonment","description":"Malcolm X was sentenced to prison for larceny and breaking and entering. He served time at various prisons including Charlestown State Prison in Massachusetts."},"geometry":{"type":"Point","coordinates":[-71.063632,42.368714]}},
+{"type":"Feature","properties":{"year":1952,"event":"Release from Prison","description":"Malcolm X was released from prison and joined the Nation of Islam."},"geometry":{"type":"Point","coordinates":[-71.063632,42.368714]}},
+{"type":"Feature","properties":{"year":1958,"event":"Marriage","description":"Malcolm X married Betty Sanders (later known as Betty Shabazz) on January 14, 1958, in Lansing, Michigan."},"geometry":{"type":"Point","coordinates":[-84.555534,42.732535]}},
+{"type":"Feature","properties":{"year":1964,"event":"Pilgrimage to Mecca","description":"Malcolm X made his pilgrimage to Mecca, Saudi Arabia, which was a transformative experience in his life."},"geometry":{"type":"Point","coordinates":[39.826168,21.422487]},"id":4},
+{"type":"Feature","properties":{"year":1964,"event":"Founding of Organization of Afro-American Unity","description":"Malcolm X founded the Organization of Afro-American Unity (OAAU) in New York City."},"geometry":{"type":"Point","coordinates":[-73.944158,40.678178]}},
+{"type":"Feature","properties":{"year":1965,"event":"Assassination","description":"Malcolm X was assassinated on February 21, 1965, in New York City during a speech at the Audubon Ballroom."},"geometry":{"type":"Point","coordinates":[-73.937065,40.834589]}}
+]
+}
